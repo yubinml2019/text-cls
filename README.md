@@ -1,17 +1,17 @@
 # text-classification
 
 
-####fasttext
+#### fasttext
 很快 但是效果一般
-####textcnn
+#### textcnn
 是真的快
 使用了tx的预训练词向量指标起飞
-#####textcnn+attention [todo]
+##### textcnn+attention [todo]
 
-####bilstm 
+#### bilstm 
 太慢了，效果一般 可能没调参的事儿
 
-####bert 
+#### bert 
 
 
 
